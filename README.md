@@ -10,3 +10,5 @@ To use:
   - `flush privileges;`
 - `rake db:migrate`
 - `rails s`
+
+The default route is `/categories`. To manage Bills, navigate to `/bills`.
